@@ -7,10 +7,6 @@
 </p>
 
 ---
-
-## 🧠 About Me
-
-```yaml
 🌱 Learning      : MERN Stack (MongoDB, Express.js, React.js, Node.js)
 🔭 Internship    : Building real-time projects at SmartBridge
 💬 Ask me about  : Java + DSA, APIs, MongoDB, React Components
