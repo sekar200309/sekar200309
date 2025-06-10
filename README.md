@@ -1,16 +1,3 @@
-Awesome! Let’s level up your GitHub profile `README.md` with:
-
-✅ A **dark/black theme**
-✅ **Animated icons & badges**
-✅ A **timeline-style work/learning journey**
-✅ Visual GitHub stats + contribution graph
-✅ Clean, developer-centric layout
-
-Here’s the updated version of your `README.md`, ready to shine on GitHub:
-
----
-
-````markdown
 <!-- GitHub README for sekar200309 with animations, dark theme, and timeline -->
 
 <h1 align="center">Hey 👋, I'm Sekar</h1>
@@ -44,10 +31,6 @@ timeline
     2025-06 : Learning React & Express
     2025-07 : Working on Full Stack Project
     2025-08 : Targeting Full Stack Developer Jobs
-````
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
