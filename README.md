@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+👋,+I'm+Sekar;Aspiring+Full+Stack+Developer;Code+Enthusiast;MERN+Stack+Intern" alt="Typing SVG" />
+  <img src="https://git.io/typing-svg?font=Fira+Code&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+👋,+I'm+Sekar;Aspiring+Full+Stack+Developer;Code+Enthusiast;MERN+Stack+Intern" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
@@ -13,7 +14,7 @@
 🔭 Internship    : Building real-time projects at SmartBridge
 💬 Ask me about  : Java + DSA, APIs, MongoDB, React Components
 🎯 Career Goal   : Full Stack Developer @ Product-Based Company
-📫 Reach me at   : sekar200309@gmail.com
+📫 Reach me at   : sekardurai142003@gmail.com
 😎 Fun Fact      : I debug using console.log like a ninja
 
 🗂️ My Developer Timeline
@@ -40,6 +41,8 @@ timeline
 - Tools   : Git, GitHub, Postman, VSCode, Figma
 
 🌐 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/sekar200309" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sekar200309@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sekar200309" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/sekar-d" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sekar200309@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sekar200309" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sekar200309&label=Profile+Views&color=blueviolet&style=flat" /> </p>
+<p align="center">
+  <img src="https://yhype.me/ghpvc/?username=sekar200309&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
