@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://git.io/typing-svg?font=Fira+Code&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+👋,+I'm+Sekar;Aspiring+Full+Stack+Developer;Code+Enthusiast;MERN+Stack+Intern" alt="Typing SVG" />
+ Sekar 👋
 </h1>
 
 
@@ -10,25 +10,25 @@
 ---
 
 ## 🧠 About Me
-🌱 Learning      : MERN Stack (MongoDB, Express.js, React.js, Node.js)
-🔭 Internship    : Building real-time projects at SmartBridge
-💬 Ask me about  : Java + DSA, APIs, MongoDB, React Components
-🎯 Career Goal   : Full Stack Developer @ Product-Based Company
-📫 Reach me at   : sekardurai142003@gmail.com
-😎 Fun Fact      : I debug using console.log like a ninja
+🌱 Learning      : MERN Stack (MongoDB, Express.js, React.js, Node.js) <br/>
+🔭 Internship    : Building real-time projects at SmartBridge <br/>
+💬 Ask me about  : Java + DSA, APIs, MongoDB, React Components <br/>
+🎯 Career Goal   : Full Stack Developer @ Product-Based Company <br/>
+📫 Reach me at   : sekardurai142003@gmail.com <br/>
+😎 Fun Fact      : I debug using console.log like a ninja <br/>
 
 🗂️ My Developer Timeline
 timeline
-  title My Learning Journey 🚀
-  2023 : HTML, CSS, JavaScript
-  2024 : Frontend Projects & Java + DSA
-  2025-06 : MERN Stack Internship @ SmartBridge
-  2025-07 : Full Stack Projects in Progress
-  2025-08 : Applying for Full Stack Developer Roles
+  title My Learning Journey 🚀 <br/>
+  2023 : HTML, CSS, JavaScript <br/>
+  2024 : Frontend Projects & Java + DSA <br/>
+  2025-06 : MERN Stack Internship @ SmartBridge <br/>
+  2025-07 : Full Stack Projects in Progress<br/>
+  2025-08 : Applying for Full Stack Developer Roles<br/>
 
 ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,tailwind,vscode,figma" /> </p>
-
+<br/>
 📈 GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sekar200309&show_icons=true&theme=tokyonight" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=sekar200309&theme=tokyonight" height="180px"/> </p>
 
@@ -43,6 +43,4 @@ timeline
 🌐 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/sekar-d" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sekar200309@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/sekar200309" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
-<p align="center">
-  <img src="https://yhype.me/ghpvc/?username=sekar200309&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+
