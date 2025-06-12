@@ -10,6 +10,10 @@
 ---
 
 ## 🧠 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Frontend+Developer;JavaScript+Enthusiast;React+Builder;Creative+Coder&font=Fira+Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" />
+</p>
+<br/>
 🌱 Learning      : MERN Stack (MongoDB, Express.js, React.js, Node.js) <br/>
 🔭 Internship    : Building real-time projects at SmartBridge <br/>
 💬 Ask me about  : Java + DSA, APIs, MongoDB, React Components <br/>
