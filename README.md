@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&multiline=true&width=500&height=40&lines=Frontend+Developer;JavaScript+Enthusiast;React+Builder;Creative+Coder;MERN+Stack+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Frontend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=JavaScript+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=React+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Creative+Coder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Learner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=500&height=40&lines=Frontend+Developer%0AJavaScript+Enthusiast%0AReact+Builder%0ACreative+Coder%0AMERN+Stack+Learner" />
-</p>
 
 ---
 
