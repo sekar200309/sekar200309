@@ -1,91 +1,85 @@
-<h1 align="center">Hi there, I'm Sekar! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTMwZ3d6ajlsOWJrc3ZnMjY2ZzBneXVsNmJ6dDY0dGExOXplcThlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=SekarD2003&fontAlign=70&fontSize=40&desc=Developer%20%7C%20Dreamer%20%7C%20Doer&descAlign=80&descSize=20&animation=fadeIn&fontColor=1F2428" alt="Cyberpunk Header Banner"/>
+</div>
+<h1>Hi there..<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTMwZ3d6ajlsOWJrc3ZnMjY2ZzBneXVsNmJ6dDY0dGExOXplcThlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"> </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&font=Space%20Mono&size=20&color=2196F3&lines=Developer;Dreamer;Doer" />
-</p>
+<br/>
 
-<hr/>
+<img align="right" alt="Just a Hi" src="./Images/animeGirl.gif" width="200px">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&height=18&width=300&vCenter=true&lines=Sekar;Developer;Building+Creative+Solutions" />
 
-### About Me
+<br>
 
 <ul>
-  <li> 💻 I'm currently looking for **opportunities** in development.</li>
-  <li> 🎓 **Self-taught** & passionate about continuous learning.</li>
-  <li> ✨ My favorite side project is <a href="https://github.com/SekarD2003/StoreMate">StoreMate</a>. </li>
+  <li> 💻 I'm currently looking for **opportunities**.</li>
+  <li> 🎓 Self-taught & passionate about **learning**.</li>
+  <li> ✨ My favorite side project is <a href="https://github.com/SekarD2003/StoreMate">StoreMate</a> </li>
   <li> 📫 How to reach me: <a href="mailto:sekardurai142003@gmail.com">sekardurai142003@gmail.com</a> </li>
 </ul>
 
 ---
 
-<h3 align="center">Tech Stack & Tools</h3>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<div align="center">
-  <h4>Programming Languages:</h4>
-  <p>
-      <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?logo=java&logoColor=2196F3&style=flat-square">
-      <img alt="Python" src="https://img.shields.io/badge/Python-000000.svg?logo=python&logoColor=2196F3&style=flat-square">
-      <img alt="C" src="https://img.shields.io/badge/C-000000.svg?logo=c&logoColor=2196F3&style=flat-square">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-000000.svg?logo=html5&logoColor=2196F3&style=flat-square">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-000000.svg?logo=css3&logoColor=2196F3&style=flat-square">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=2196F3&style=flat-square">
-      <img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=database&logoColor=2196F3&style=flat-square">
-  </p>
-</div>
+<h3 align="left">Programming Languages:</h3>
+<p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?logo=openjdk&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000.svg?logo=python&logoColor=00FFFF&style=for-the-badge">
+    <img alt="C" src="https://img.shields.io/badge/C-000000.svg?logo=c&logoColor=00FFFF&style=for-the-badge">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-000000.svg?logo=html5&logoColor=00FFFF&style=for-the-badge">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-000000.svg?logo=css3&logoColor=00FFFF&style=for-the-badge">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=00FFFF&style=for-the-badge">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=database&logoColor=00FFFF&style=for-the-badge">
+</p>
 
-<div align="center">
-  <h4>Frameworks and Libraries:</h4>
-  <p>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-000000.svg?logo=spring-boot&logoColor=2196F3&style=flat-square">
-      <img alt="React" src="https://img.shields.io/badge/React-000000.svg?logo=react&logoColor=2196F3&style=flat-square">
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000.svg?logo=tailwind-css&logoColor=2196F3&style=flat-square">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000.svg?logo=bootstrap&logoColor=2196F3&style=flat-square">
-  </p>
-</div>
+<h3 align="left">Frameworks and Libraries:</h3>
+<p>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-000000.svg?logo=spring-boot&logoColor=00FFFF&style=for-the-badge">
+    <img alt="React" src="https://img.shields.io/badge/React-000000.svg?logo=react&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000.svg?logo=tailwind-css&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000.svg?logo=bootstrap&logoColor=00FFFF&style=for-the-badge">
+</p>
 
-<div align="center">
-  <h4>Databases and Cloud:</h4>
-  <p>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?logo=mysql&logoColor=2196F3&style=flat-square">
-      <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-000000.svg?logo=mongodb&logoColor=2196F3&style=flat-square">
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazonaws&logoColor=2196F3&style=flat-square">
-      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=2196F3&style=flat-square">
-      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000.svg?logo=netlify&logoColor=2196F3&style=flat-square">
-  </p>
-</div>
+<h3 align="left">Databases and Clouds:</h3>
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?logo=mysql&logoColor=00FFFF&style=for-the-badge">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-000000.svg?logo=mongodb&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000.svg?logo=netlify&logoColor=00FFFF&style=for-the-badge">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazonaws&logoColor=00FFFF&style=for-the-badge">
+</p>
 
-<div align="center">
-  <h4>Softwares and Tools:</h4>
-  <p>
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=2196F3&style=flat-square">
-      <img alt="Git" src="https://img.shields.io/badge/Git-000000.svg?logo=git&logoColor=2196F3&style=flat-square">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?logo=docker&logoColor=2196F3&style=flat-square">
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000.svg?logo=node.js&logoColor=2196F3&style=flat-square">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-000000.svg?logo=visual-studio-code&logoColor=2196F3&style=flat-square">
-  </p>
-</div>
-
+<h3 align="left">Softwares and Tools:</h3>
+<p>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Git" src="https://img.shields.io/badge/Git-000000.svg?logo=git&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?logo=docker&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000.svg?logo=node.js&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000000.svg?logo=visual-studio-code&logoColor=00FFFF&style=for-the-badge">
+</p>
 ---
 
-## Github Stats
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img width="49%" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekarD2003&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&hide_border=true&langs_count=6" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SekarD2003&theme=dark_title" alt="GitHub Stats Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" alt="Sekar's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SekarD2003&theme=react-dark&title_color=00FFFF&line_color=00FFFF&hide_border=true" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SekarD2003&show_icons=true&count_private=true&theme=gotham&hide_border=true" alt="Sekar's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekarD2003&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img alt="Sekar's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SekarD2003&theme=dracula&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&font=Space%20Mono&size=20&color=2196F3&lines=Thanks+for+visiting!;Keep+building,+keep+learning,+Sekar+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=00FFFF&width=800&lines=Thanks+for+visiting!;Let's+connect+and+build+something+cool!+🚀" />
 </p>
 
 ---
 
 <div align="center">
-  <h3>Let's Connect 🌐</h3>
+  <h3 align="center">Let's Connect 🌐 <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGY5dHo1eXdzbjh6MjN1dnZqa284eGgzMDh3cWg5a2xyaTRkdmRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7WIsnMAwUapnyXOU/giphy.gif" height="33px" /></h3>
   <a href="https://www.linkedin.com/in/sekar-d">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
