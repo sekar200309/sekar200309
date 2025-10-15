@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=SekarD2003&fontAlign=70&fontSize=40&desc=Developer%20%7C%20Dreamer%20%7C%20Doer&descAlign=80&descSize=20&animation=fadeIn&fontColor=1F2428" alt="Cyberpunk Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=Sekar&fontAlign=70&fontSize=40&desc=Developer%20%7C%20Dreamer%20%7C%20Doer&descAlign=80&descSize=20&animation=fadeIn&fontColor=1F2428" alt="Cyberpunk Header Banner"/>
 </div>
 <h1>Hi there..<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTMwZ3d6ajlsOWJrc3ZnMjY2ZzBneXVsNmJ6dDY0dGExOXplcThlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px"> </h1>
 
@@ -62,8 +62,8 @@
 <div align="center">
   <h2>📈 GitHub Stats</h2>
 
-  <img width="49%" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SekarD2003&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&hide_border=true&langs_count=6" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SekarD2003&theme=dark_title" alt="GitHub Stats Summary" />
+  <img width="49%" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekar200309&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&hide_border=true&langs_count=6" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sekar200309&theme=dark_title" alt="GitHub Stats Summary" />
 
   <br/>
 
