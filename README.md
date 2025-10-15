@@ -14,6 +14,7 @@
   <li> 💻 I'm currently looking for **opportunities**.</li>
   <li> 🎓 Self-taught & passionate about **learning**.</li>
   <li> ✨ My favorite side project is <a href="https://github.com/SekarD2003/StoreMate">StoreMate</a> </li>
+  <li> 📚 **Currently Learning:** AWS re/Start Program </li>
   <li> 📫 How to reach me: <a href="mailto:sekardurai142003@gmail.com">sekardurai142003@gmail.com</a> </li>
 </ul>
 
@@ -24,38 +25,35 @@
 <h3>Programming Languages:</h3>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-000000.svg?logo=openjdk&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Python" src="https://img.shields.io/badge/Python-000000.svg?logo=python&logoColor=00FFFF&style=for-the-badge">
-    <img alt="C" src="https://img.shields.io/badge/C-000000.svg?logo=c&logoColor=00FFFF&style=for-the-badge">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=00FFFF&style=for-the-badge">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-000000.svg?logo=html5&logoColor=00FFFF&style=for-the-badge">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-000000.svg?logo=css3&logoColor=00FFFF&style=for-the-badge">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=00FFFF&style=for-the-badge">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-000000.svg?logo=database&logoColor=00FFFF&style=for-the-badge">
 </p>
 
 <h3>Frameworks and Libraries:</h3>
 <p>
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-000000.svg?logo=spring-boot&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000.svg?logo=node.js&logoColor=00FFFF&style=for-the-badge">
     <img alt="React" src="https://img.shields.io/badge/React-000000.svg?logo=react&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-000000.svg?logo=spring-boot&logoColor=00FFFF&style=for-the-badge">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000.svg?logo=tailwind-css&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000.svg?logo=bootstrap&logoColor=00FFFF&style=for-the-badge">
 </p>
 
-<h3>Databases and Clouds:</h3>
+<h3>Databases and Cloud:</h3>
 <p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?logo=mysql&logoColor=00FFFF&style=for-the-badge">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-000000.svg?logo=mongodb&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000.svg?logo=netlify&logoColor=00FFFF&style=for-the-badge">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?logo=postgresql&logoColor=00FFFF&style=for-the-badge">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazonaws&logoColor=00FFFF&style=for-the-badge">
 </p>
 
-<h3>Softwares and Tools:</h3>
+<h3>Tools and Platforms:</h3>
 <p>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Git" src="https://img.shields.io/badge/Git-000000.svg?logo=git&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?logo=docker&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000.svg?logo=node.js&logoColor=00FFFF&style=for-the-badge">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-000000.svg?logo=visual-studio-code&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=figma&logoColor=00FFFF&style=for-the-badge">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-000000.svg?logo=postman&logoColor=00FFFF&style=for-the-badge">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=00FFFF&style=for-the-badge">
+    <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-000000.svg?logo=mongodb&logoColor=00FFFF&style=for-the-badge">
 </p>
 ---
 
