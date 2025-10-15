@@ -12,9 +12,8 @@
 
 <ul>
   <li> 💻 I'm currently looking for **opportunities**.</li>
-  <li> 🎓 Self-taught & passionate about **learning**.</li>
+  <li> 🎓 Self-taught & passionate about **learning**; currently enrolled in the **AWS re/Start Program**.</li>
   <li> ✨ My favorite side project is <a href="https://github.com/SekarD2003/StoreMate">StoreMate</a> </li>
-  <li> 📚 **Currently Learning:** AWS re/Start Program </li>
   <li> 📫 How to reach me: <a href="mailto:sekardurai142003@gmail.com">sekardurai142003@gmail.com</a> </li>
 </ul>
 
@@ -33,7 +32,7 @@
 <h3>Frameworks and Libraries:</h3>
 <p>
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000.svg?logo=node.js&logoColor=00FFFF&style=for-the-badge">
-    <img alt="React" src="https://img.shields.io/badge/React-000000.svg?logo=react&logoColor=00FFFF&style=for-the-badge">
+    <img alt="React" src="https://img.shields.io/badge/React.js-000000.svg?logo=react&logoColor=00FFFF&style=for-the-badge">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=00FFFF&style=for-the-badge">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-000000.svg?logo=spring-boot&logoColor=00FFFF&style=for-the-badge">
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000.svg?logo=tailwind-css&logoColor=00FFFF&style=for-the-badge">
@@ -61,7 +60,8 @@
   <h2>📈 GitHub Stats</h2>
 
   <img width="49%" alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekar200309&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&hide_border=true&langs_count=6" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sekar200309&theme=dark_title" alt="GitHub Stats Summary" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sekar200309&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&hide_border=true&count_private=true" alt="GitHub Stats Summary" />
 
   <br/>
 
