@@ -43,7 +43,7 @@
 <p>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-000000.svg?logo=mongodb&logoColor=00FFFF&style=for-the-badge">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?logo=postgresql&logoColor=00FFFF&style=for-the-badge">
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazonaws&logoColor=00FFFF&style=for-the-badge&style=for-the-badge">
+    <img alt="AWS" src="https://camo.githubusercontent.com/0a728f1414b218ce027e366facacf949ed5f96a0065149e9299f5dd0438c4701/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d3030303030302e7376673f6c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d303046464646267374796c653d666f722d7468652d6261646765">
 </p>
 
 <h3>Tools and Platforms:</h3>
